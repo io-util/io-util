@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hey, I am io.
 
-<!--
-**io-util/io-util** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I work as SAP Basis and HANA Administrator. In addition to that, I do development using C# (most notably the .NET) and Java.
 
-Here are some ideas to get you started:
+✉️ Need to get in touch with me? You can reach me the quickest by mentioning me on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+<p align="center">
+<a href="https://www.microsoft.com/en-us/windows"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+<a href="https://adoptium.net/temurin/releases/"><img alt="openjdk" src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a></p>
+<p align="center"><a href="https://github.com/io-util"><img alt="feature" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"></a></p>
