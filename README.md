@@ -1,6 +1,6 @@
 👋 Hey, I am io.
 
-💼 I work as SAP Basis and HANA Administrator. In addition to that, I do development using C# (most notably the .NET) and Java.
+💼 I work as SAP Basis and HANA Administrator. In addition to that, I do development using C# (most notably using .NET) and Java.
 
 ✉️ Need to get in touch with me? You can reach me the quickest by mentioning me on GitHub.
 
